@@ -2,7 +2,7 @@
 date_default_timezone_set('Europe/Lisbon');
 setlocale(LC_ALL, 'pt_PT.utf-8');
 
-include 'php-functions/functions.php';
+require_once 'php-functions/functions.php';
 
 if (isset($_GET['act']) and $_GET['act']=='locais'){
 
