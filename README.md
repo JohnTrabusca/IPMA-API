@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="editormd/css/editormd.css" />
-<div id="test-editor">
-    <textarea style="display:none;">
         # IPMA-API
 Exemplo prático da API do IPMA - Previsão para 5 dias
 
@@ -16,16 +13,3 @@ Resultado API:
     classWindSpeed: classe da intensidade do vento (Usar função tipo_vento)
     predWindDir: rumo predominante do vento (N, NE, E, SE, S, SW, W, NW)
     precipitaProb: probabilidade da precipitação
-    </textarea>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="editormd/editormd.min.js"></script>
-<script type="text/javascript">
-    $(function() {
-        var editor = editormd("test-editor", {
-            // width  : "100%",
-            // height : "100%",
-            path   : "editormd/lib/"
-        });
-    });
-</script>
