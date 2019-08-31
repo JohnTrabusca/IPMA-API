@@ -439,8 +439,8 @@ $data = json_decode($jsond, TRUE);
     <link rel="shortcut icon" type="image/png" href="https://ssl.gstatic.com/onebox/weather/64/sunny_s_cloudy.png"/>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/feather-icons"></script>
-    <link rel="stylesheet" href="assets/sweetdropdown/dist/min/jquery.sweet-dropdown.min.css" />
-    <script src="assets/sweetdropdown/dist/min/jquery.sweet-dropdown.min.js"></script>
+    <link rel="stylesheet" href="assets/sweetdropdown/jquery.sweet-dropdown.min.css" />
+    <script src="assets/sweetdropdown/jquery.sweet-dropdown.min.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,900&display=swap');
 
