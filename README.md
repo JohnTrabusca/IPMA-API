@@ -1,4 +1,4 @@
-        # IPMA-API
+# IPMA-API
 Exemplo prático da API do IPMA - Previsão para 5 dias
 
 Request API: http://api.ipma.pt/open-data/forecast/meteorology/cities/daily/ {Alterar para a cidade pretendente}.json (Consultar função id_local, ficheiro weather.php)
