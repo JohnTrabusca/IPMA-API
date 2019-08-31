@@ -164,10 +164,10 @@ $data = json_decode($jsond, TRUE);
 <head>
     <title id="page_title">Meteorologia - <?php id_local($data['globalIdLocal']) ?></title>
     <link rel="shortcut icon" type="image/png" href="https://ssl.gstatic.com/onebox/weather/64/sunny_s_cloudy.png"/>
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/feather-icons"></script>
-    <link rel="stylesheet" href="assets/sweetdropdown/jquery.sweet-dropdown.min.css" />
     <link rel="stylesheet" href="assets/css/styles.css" />
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="assets/sweetdropdown/jquery.sweet-dropdown.min.css" />
     <script src="assets/sweetdropdown/jquery.sweet-dropdown.min.js"></script>
 
 </head>
