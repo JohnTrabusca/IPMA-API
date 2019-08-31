@@ -432,11 +432,6 @@ $data = json_decode($jsond, TRUE);
 //    predWindDir: rumo predominante do vento (N, NE, E, SE, S, SW, W, NW)
 //    precipitaProb: probabilidade da precipitação
 
-//DEBUG
-//echo '<pre>';
-//print_r($data);
-//echo '</pre>';
-
 ?>
 <html lang="pt">
 <head>
