@@ -1,6 +1,8 @@
 # IPMA-API
 Exemplo prático da API do IPMA - Previsão para 5 dias
 
+> Servidor necessita de cURL ativado
+
 Funções mencionadas podem ser consultadas no ficheiro weather.php
 
 Lista de cidades disponíveis estão presentes na função id_local
